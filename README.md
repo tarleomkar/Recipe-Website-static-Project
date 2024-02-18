@@ -1,2 +1,2 @@
 # Recipe-Website-static-Project
-The CryptoCurrency Tracker Website is a web-based application that enables users to track real-time cryptocurrency prices and market trends. The website utilizes HTML, CSS, JavaScript, and APIs to provide users with up-to-date information on various cryptocurrencies.
+The Recipe Website Project is a web application aimed at providing users with a platform to explore and discover a variety of recipes across different cuisines. Whether you're a seasoned chef or a cooking enthusiast, this website offers a diverse collection of recipes to suit every taste and skill level.
